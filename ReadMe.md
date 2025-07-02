@@ -8,7 +8,7 @@ This project allows you to draw any digit from 0 to 9, and it will predict the n
 
 When you draw a digit and click "Predict", the app instantly shows you its prediction, just like the example below:
 <br>
-![outputs](images/ouputsExample.png)
+![outputs](images/outputsExample.jpg)
 
 But have you ever wondered what happens internally during the training and prediction steps? Let's walk through the full journey step by step.
 
@@ -112,6 +112,10 @@ The training loss started high and decreased over time to a very small value. Th
 
 ## How to Use It
 
-1. To train the model or run predictions from the command line:
+1. To train the model:
    ```bash
    python main.py
+
+2. Using the GUI(After Building the model):
+   ```bash
+   python gui.py
