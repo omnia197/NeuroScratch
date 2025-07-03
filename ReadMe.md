@@ -1,4 +1,4 @@
-# DeepScratch
+# NeuroScratch
 
 This project allows you to draw any digit from 0 to 9, and it will predict the number you wrote. What's special about this project is that it implements a full neural network from scratch using only NumPy — no machine learning frameworks like TensorFlow or PyTorch were used. It's a great way to understand how neural networks actually work under the hood.
 
